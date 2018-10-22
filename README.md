@@ -20,7 +20,8 @@ Every response includes a status_code. A list of all status codes can be consult
 
 Do you have an idea or suggestion for an API call that you don’t see here? Let us know and we’ll do our best to respond!
 
-#
+```
+
 git clone https://github.com/BartoszTermena/Lyric-Search.git
 
 cd Lyric-Search
@@ -30,4 +31,5 @@ npm install
 npm install node
 
 npm run start
-#
+```
+
